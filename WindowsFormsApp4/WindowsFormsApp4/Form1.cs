@@ -33,6 +33,9 @@ namespace WindowsFormsApp4
         private void InitializeWords()
         {
             // Kelimeleri sözlüğe ekleyin (istediğiniz kadar kelime ekleyebilirsiniz)
+
+
+            //maindeki değişiklik...
             words = new Dictionary<string, string>
             {
                 
