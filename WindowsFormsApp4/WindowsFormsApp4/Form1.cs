@@ -16,6 +16,8 @@ namespace WindowsFormsApp4
     public partial class Form1 : Form
     {
         private Dictionary<string, string> words; // İngilizce kelimelerin ve Türkçe karşılıklarının saklandığı sözlük
+
+        //değişik dal
         private Random random;
         private KeyValuePair<string, string> currentWordPair;
 
